@@ -26,4 +26,6 @@ dependencies {
 
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
+
+    compile 'com.amazonaws:aws-java-sdk-sqs:1.11.587'
 }
